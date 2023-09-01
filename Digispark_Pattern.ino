@@ -1,6 +1,6 @@
 /* 
  *  Author  = Hacker Nowful 
- *  Title   = 4 Pin BruteForce
+ *  Title   = Pattren BruteForce
  *  Insta   = mr_white_hat._
  *  GitHub  = Hacker Nowful
  *  Website = www.hypesecinfotech.com
